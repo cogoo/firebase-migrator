@@ -1,3 +1,12 @@
 # Firebase Migrator
 
-Migrate from RealtimeDB to Firestore.
+Migrate from Realtime DB to Firestore.
+
+## Getting Started
+
+### Pre-requisites
+
+## Run the migrator
+
+<!-- TODO: -->
+
